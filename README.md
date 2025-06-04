@@ -6,7 +6,7 @@ I'm a passionate educator, backend developer, and lifelong learner with a vision
 
 ## 💼 What I Do
 
-- 🔧 **Backend Development**: Building RESTful APIs with TypeScript, Node.js, and MongoDB (Mongoose)
+- 🔧 **Software Engineer**: Building Full Stack APPs with TypeScript, Node.js, and MongoDB (Mongoose), React and Next;
 - 📱 **Mobile Apps**: Developing cross-platform apps using React Native and Expo
 - 🌍 **Community Projects**: Creating tools for churches, schools, and local organizations
 - ✨ **Animation & Visualization**: Exploring GSAP and Three.js for engaging interfaces
@@ -28,15 +28,15 @@ I'm a passionate educator, backend developer, and lifelong learner with a vision
 ## 🔭 Current Projects
 
 - 🚀 A church membership management platform (MERN stack)
-- 🌌 A 3D solar system visualization using **Three.js + GSAP**
-- 📖 A blog engine for sharing inspiring faith-based stories
+- 🌌 A 3D portfolios using **Three.js + GSAP**
+- 📖 A quiz app to help student practice for the national science and maths quiz competition
 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 Email: `palomatut1@gmail.com`
-- 🌐 Website: [yourwebsite.com](https://benedictafotey.vercel.app/) <!-- optional -->
+- 🌐 Website: (https://benedictafotey.vercel.app/) <!-- optional -->
 ---
 
 ## 🧭 Fun Fact
