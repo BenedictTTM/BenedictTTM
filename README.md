@@ -47,18 +47,13 @@ I'm a passionate educator, software engineer, and lifelong learner with a vision
 
 ---
 
-## 🔭 Current Projects
-
-- 🚀 A church membership management platform (MERN stack)
-- 🌌 A 3D portfolios using **Three.js + GSAP**
-- 📖 A quiz app to help student practice for the national science and maths quiz competition
 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 Email: `palomatut1@gmail.com`
-- 🌐 Website: (https://benedictafotey.vercel.app/) <!-- optional -->
+- 🌐 Website: (https://benedictafotey.me/) <!-- optional -->
 ---
 
 ## 🧭 Fun Fact
