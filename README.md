@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dr. Ben!
+# 👋 Hi, I'm  Ben!
 
 I'm a passionate educator, software engineer, and lifelong learner with a vision to use technology as a tool for positive change. I love building systems that solve real problems — especially in education, community development, and data-driven decision-making.
 
